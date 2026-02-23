@@ -16,8 +16,8 @@ Built for smarter pricing decisions in Sim Companies.
 ### Upcoming
 - Z-Score classification
 - Fair Price Band (±1σ)
-- Extreme Alert (> ±3σ)
 - Volatility ranking
 - Trend detection
 
 ---
+
